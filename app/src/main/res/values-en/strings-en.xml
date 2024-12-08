@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Slot Machine Game</string>
+    <string name="solde_joueur">Player Balance: %1$d$</string>
+    <string name="jouer">PLAY</string>
+    <string name="mode_casse_cou">Daredevil Mode</string>
+    <string name="ajouter_100">Add 100$</string>
+    <string name="entrer_code_secret">Enter your secret code</string>
+    <string name="code_hint">Secret code</string>
+    <string name="d1">1$</string>
+    <string name="d2">2$</string>
+    <string name="d5">5$</string>
+    <string name="loading">Loading...</string>
+    <string name="money">Add Money</string>
+    <string name="header">Lab2: Super Slot Machine</string>
+    <string name="invalid_code">Invalid Code</string>
+</resources>

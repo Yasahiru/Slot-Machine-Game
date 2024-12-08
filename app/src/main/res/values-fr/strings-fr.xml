@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Slot Machine Game</string>
+    <string name="solde_joueur">Solde du joueur : %1$d$</string>
+    <string name="jouer">JOUER</string>
+    <string name="mode_casse_cou">Mode Casse-cou</string>
+    <string name="ajouter_100">Ajouter 100$</string>
+    <string name="entrer_code_secret">Entrer votre code secret</string>
+    <string name="code_hint">Code secret</string>
+    <string name="d1">1$</string>
+    <string name="d2">2$</string>
+    <string name="d5">5$</string>
+    <string name="loading">Loading...</string>
+    <string name="money">Ajouter de l \'\ argent</string>
+    <string name="header">Labo2: Super machine à sous</string>
+    <string name="invalid_code">Code invalide</string>
+</resources>
